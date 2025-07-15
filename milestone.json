@@ -1,0 +1,119 @@
+[
+    {
+        "id": 19,
+        "documentId": "dp05cp2tn7zszqedhcub2g4l",
+        "title": "Primary 1",
+        "desc": null,
+        "exams": [
+            {
+                "exam_index": 1,
+                "id": 42,
+                "documentId": "qqdfcavh1ae495r6met9dc7f",
+                "title": "Exam Math Boosters: Addition & Subtraction 1 - 3",
+                "status": "opened"
+            },
+            {
+                "exam_index": 2,
+                "id": 46,
+                "documentId": "y2b6951ocfvbb5k9iu73aty4",
+                "title": "Exam MathBites: Grade 1 Addition & Subtraction",
+                "status": "opened"
+            },
+            {
+                "exam_index": 3,
+                "id": 38,
+                "documentId": "dnmjwunrlmcwnp0jh8s4nold",
+                "title": "Simple Math Addition",
+                "status": "opened"
+            },
+            {
+                "exam_index": 4,
+                "id": 37,
+                "documentId": "yg81pv6m17ot990tx38hemsr",
+                "title": "Simple Math Subtraction",
+                "status": "closed"
+            },
+            {
+                "exam_index": 5,
+                "id": 49,
+                "documentId": "zcfqfo1mjuhxyhmlgdgbp6j1",
+                "title": "Exam Book Test 1",
+                "status": "closed"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "documentId": "p8f2bf4brfpuhpjzd4ktzs27",
+        "title": "Primary 2",
+        "desc": null,
+        "exams": [
+            {
+                "exam_index": 1,
+                "id": 47,
+                "documentId": "h3lo68y5ybwv1pcwieazhfs1",
+                "title": "Exam MathBites: Grade 2 Addition & Subtraction",
+                "status": "closed"
+            },
+            {
+                "exam_index": 2,
+                "id": 48,
+                "documentId": "gmd883zo52w2om9ghnpb1z5x",
+                "title": "Exam Geometry & Measurement",
+                "status": "closed"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "documentId": "hrqo9oypupdjsils4ltqdiml",
+        "title": "Primary 3",
+        "desc": null,
+        "exams": [
+            {
+                "exam_index": 1,
+                "id": 51,
+                "documentId": "gdfchqxae2uz0lveq1n6kcyt",
+                "title": "Exam Book Grade 3",
+                "status": "closed"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "documentId": "mxmdp27chpyhtwrujggz6ubt",
+        "title": "Primary 4",
+        "desc": null,
+        "exams": [
+            {
+                "exam_index": 1,
+                "id": 52,
+                "documentId": "kcx85fqp0ll5mmybkoxuml3y",
+                "title": "Exam Book Grade 4",
+                "status": "closed"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "documentId": "h0crqs444hkp6vtgt32ittok",
+        "title": "Primary 5",
+        "desc": null,
+        "exams": [
+            {
+                "exam_index": 1,
+                "id": 53,
+                "documentId": "skat71cx9ou0qhz9m3llrudm",
+                "title": "Exam Book Grade 5",
+                "status": "closed"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "documentId": "m6mr4jwse49mq0t7u82ad2bp",
+        "title": "Primary 6",
+        "desc": null,
+        "exams": []
+    }
+]

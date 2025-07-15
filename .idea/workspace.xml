@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea0978b5-76f4-4bf2-b10c-efca787043f8" name="Changes" comment="fix ui login">
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Helvetica-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Helvetica.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/dokidoumobileapp.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/dokidoumobileapp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/CapsuleButton.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/CapsuleButton.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/DropdownInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/DropdownInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/TextInput.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/TextInput.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/common/UserInfoText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/common/UserInfoText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/exam/BookCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/exam/BookCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/exam/BookExamModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/exam/BookExamModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/exam/ExamAnswerSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/exam/ExamAnswerSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/exam/ExamHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/exam/ExamHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/exam/LevelProgressionBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/exam/LevelProgressionBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/exam/ProgressComparisonBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/exam/ProgressComparisonBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/exam/QuestionSlider.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/exam/QuestionSlider.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/apiEndpoints.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/apiEndpoints.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/BottomNavigator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/BottomNavigator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/books/ExamResultScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/books/ExamResultScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/books/ExamScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/books/ExamScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/profile/StudentProfileScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/profile/StudentProfileScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/report/AssesmentDetailScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/report/AssesmentDetailScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/report/ReportScreen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/report/ReportScreen.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/authStore.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/authStore.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.4.7/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2wnYKXkgqtR7NHp4SSub3xScROn" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dimasangga/Projects/ursawhite/dokidou/dokidou-mobileapp/assets/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/Users/dimasangga/Projects/ursawhite/dokidou/dokidou-mobileapp/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/dimasangga/Projects/ursawhite/dokidou/dokidou-mobileapp/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/fonts" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets/lottie" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/services" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea0978b5-76f4-4bf2-b10c-efca787043f8" name="Changes" comment="" />
+      <created>1746678741809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746678741809</updated>
+      <workItem from="1746678742868" duration="5733000" />
+      <workItem from="1746757168929" duration="37050000" />
+      <workItem from="1747038748361" duration="9436000" />
+      <workItem from="1747101266052" duration="1465000" />
+      <workItem from="1747170328865" duration="11766000" />
+      <workItem from="1747187698269" duration="634000" />
+      <workItem from="1747192650310" duration="9393000" />
+      <workItem from="1747212039936" duration="4483000" />
+      <workItem from="1747276904257" duration="17995000" />
+      <workItem from="1747372128370" duration="1775000" />
+      <workItem from="1747548802295" duration="1884000" />
+      <workItem from="1747550971469" duration="5504000" />
+      <workItem from="1747557317807" duration="4096000" />
+      <workItem from="1747583792414" duration="4676000" />
+      <workItem from="1747624266164" duration="13436000" />
+      <workItem from="1747667358337" duration="1166000" />
+      <workItem from="1747710474037" duration="4102000" />
+      <workItem from="1747714911198" duration="13231000" />
+      <workItem from="1747743415702" duration="213000" />
+      <workItem from="1747792926896" duration="17084000" />
+      <workItem from="1747883277985" duration="1632000" />
+      <workItem from="1747887651961" duration="3803000" />
+      <workItem from="1747896485353" duration="8486000" />
+      <workItem from="1747944283163" duration="228000" />
+      <workItem from="1747969610292" duration="130000" />
+      <workItem from="1747970138350" duration="766000" />
+      <workItem from="1747971507266" duration="14000" />
+      <workItem from="1747973435944" duration="17867000" />
+      <workItem from="1748002779622" duration="39020000" />
+      <workItem from="1748245594958" duration="1109000" />
+      <workItem from="1748329669995" duration="1370000" />
+      <workItem from="1748346497703" duration="23714000" />
+      <workItem from="1748395594310" duration="20336000" />
+      <workItem from="1748425539220" duration="3387000" />
+      <workItem from="1748520550755" duration="4273000" />
+      <workItem from="1748577769556" duration="1815000" />
+      <workItem from="1748679164104" duration="8000" />
+      <workItem from="1748832657914" duration="12911000" />
+      <workItem from="1749011459927" duration="3134000" />
+      <workItem from="1749030490932" duration="89000" />
+      <workItem from="1749089955089" duration="10908000" />
+      <workItem from="1749110075914" duration="2530000" />
+      <workItem from="1749134425868" duration="21000" />
+      <workItem from="1749549874222" duration="1220000" />
+      <workItem from="1749659301585" duration="15135000" />
+      <workItem from="1749799235511" duration="7702000" />
+      <workItem from="1750259869279" duration="1722000" />
+      <workItem from="1750299849028" duration="13000" />
+      <workItem from="1750299871211" duration="4843000" />
+      <workItem from="1750306000689" duration="3743000" />
+      <workItem from="1750383657755" duration="4321000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix ui login">
+      <option name="closed" value="true" />
+      <created>1747998985472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747998985472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix ui login" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix ui login" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/exam/LevelProgressionBar.tsx</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/exam/ProgressComparisonBar.tsx</url>
+          <line>268</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
